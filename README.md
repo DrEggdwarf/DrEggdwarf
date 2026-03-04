@@ -1,47 +1,51 @@
 # Robin — DrEggdwarf
 
-Cybersecurity student at Oteria Cyber School, Paris.
-I build offensive security tools, Android applications, and automation scripts — mostly for lab environments, CTF competitions, and authorized penetration testing.
+> Reconversion assumée : 11 ans en hôtellerie de luxe, aujourd'hui en cybersécurité.
+> Ce qui change : le domaine. Ce qui reste : l'attention aux détails et l'exigence.
 
 ---
 
-## Focus areas
+## Ce sur quoi je travaille
 
-- WiFi attack surface — Evil Twin, captive portals, handshake capture
-- Mobile security tooling — Android / Kotlin / Jetpack Compose
-- Network reconnaissance and OSINT
-- Script automation via Termux and Raspberry Pi
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Argos](https://github.com/DrEggdwarf/Argos) | Android WiFi auditing app — scanner, GPS trilateration, Evil Twin, AI captive portals | Kotlin, Compose, Raspberry Pi |
-| [Obsidian-Quizzator](https://github.com/DrEggdwarf/Obsidian-Quizzator) | Obsidian plugin that turns notes into interactive quizzes | TypeScript |
-| [Hackahoot](https://github.com/DrEggdwarf/Hackahoot) | Security-focused quiz game for CTF training | JavaScript |
-| [NetworkManager](https://github.com/DrEggdwarf/NetworkManager) | Network interface management dashboard | JavaScript |
-| [Firefox-files-visualiser](https://github.com/DrEggdwarf/Firefox-files-visualiser) | Firefox forensics — visualize browser artifacts | JavaScript |
-| [GraphOsint](https://github.com/DrEggdwarf/GraphOsint) | Rails OSINT application | Ruby on Rails |
+- **Araneae** — Plateforme web de pentest coopératif : exécution de scripts, suivi d'investigation, gestion d'équipe
+- **Argos** — Application Android d'audit WiFi : scanner, triangulation GPS, Evil Twin, portails captifs générés par IA
+- **Aegyl** — (bientôt)
+- **Obsidian-Quizzator** — Plugin Obsidian de génération de quiz depuis des notes
 
 ---
 
 ## Stack
 
-**Languages** — Kotlin, Python, JavaScript, TypeScript, Ruby, Bash
-**Android** — Jetpack Compose, Room, Navigation, OkHttp
-**Security** — Scapy, aircrack-ng, hostapd, Burp Suite, Metasploit
-**Infrastructure** — Raspberry Pi 4, Kali Linux, ALFA AWUS036ACHM
-**Tools** — Termux, SSH, Flask, Obsidian
+```
+Offensif       → Python · Burp Suite · Nmap · Scapy · scripts custom
+Automatisation → Power Platform · Power Automate · Power Apps
+Dev            → Kotlin · JavaScript · TypeScript · Node.js · Ruby on Rails
+Hardware       → Raspberry Pi · CH341A · ALFA AWUS036ACHM · RF tools
+```
 
 ---
 
-## Ethics
+## Parcours
 
-All offensive tooling in this profile is built for authorized testing, CTF competitions, and personal lab environments.
-Never use these tools on networks or systems you do not own or have explicit written permission to test.
+**M1 Cybersécurité** @ Oteria Cyber School *(en cours)*
+**Bachelor Ethical Hacking** @ EFREI
+**RPA Developer** @ Verisure
+
+Avant ça : direction opérationnelle en hôtellerie de luxe — Sofitel Paris Le Faubourg,
+étoile Michelin chez Ogata, fondateur de My CM.
 
 ---
 
-*Oteria Cyber School — Paris*
+## Centres d'intérêt techniques
+
+- Hardware hacking et rétro-ingénierie de composants embarqués
+- Sécurité IoT et systèmes industriels (direction M2)
+- CTF — régulièrement en compétition
+- Keystroke dynamics et authentification comportementale
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TON_PROFIL)
+[![Email](https://img.shields.io/badge/Email-contact-grey?style=flat&logo=gmail)](mailto:TON_EMAIL)
