@@ -1,13 +1,13 @@
 # Robin — DrEggdwarf
 
-> Reconversion assumée : 11 ans en hôtellerie de luxe, aujourd'hui en cybersécurité.
+> Reconversion : 11 ans en hôtellerie de luxe, aujourd'hui en cybersécurité.
 > Ce qui change : le domaine. Ce qui reste : l'attention aux détails et l'exigence.
 
 ---
 
 ## Ce sur quoi je travaille
 
-- **Araneae** — Plateforme web de pentest coopératif : exécution de scripts, suivi d'investigation, gestion d'équipe
+- **Arbiter** — Plateforme web de pentest coopératif : exécution de scripts, suivi d'investigation, gestion d'équipe
 - **Argos** — Application Android d'audit WiFi : scanner, triangulation GPS, Evil Twin, portails captifs générés par IA
 - **Aegyl** — (bientôt)
 - **Obsidian-Quizzator** — Plugin Obsidian de génération de quiz depuis des notes
@@ -32,7 +32,7 @@ Hardware       → Raspberry Pi · CH341A · ALFA AWUS036ACHM · RF tools
 **RPA Developer** @ Verisure
 
 Avant ça : direction opérationnelle en hôtellerie de luxe — Sofitel Paris Le Faubourg,
-étoile Michelin chez Ogata, fondateur de My CM.
+étoile Michelin chez Ogata.
 
 ---
 
@@ -47,5 +47,4 @@ Avant ça : direction opérationnelle en hôtellerie de luxe — Sofitel Paris L
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TON_PROFIL)
-[![Email](https://img.shields.io/badge/Email-contact-grey?style=flat&logo=gmail)](mailto:TON_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/TON_PROFIL](https://www.linkedin.com/in/robin-borg/))
